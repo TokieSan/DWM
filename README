@@ -1,6 +1,10 @@
 dwm - dynamic window manager
 ============================
+This is my Fork for the amazing window manager DWM, with my configurations and some patches applied.
+
 dwm is an extremely fast, small, and dynamic window manager for X.
+
+Below me, the default guide for building/ running DWM.
 
 
 Requirements
